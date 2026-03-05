@@ -12,7 +12,7 @@ clearing_house = "5pjD2YK4DCZnvQt3SnB9fwmmhxFyubBrBMuQitd3Kyz5"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
